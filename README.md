@@ -21,3 +21,11 @@ cargo run
 ​Type a search query (e.g., rust programming) to search.
 ​Type clear to clean the terminal screen.
 ​Type exit to close the browser.
+
+## Requirements
+| Requirement | Version |
+|-------------|---------|
+| Rust        | 1.56+   |
+| Cargo       | Latest  |
+| OS          | Linux / Android (Termux) / macOS |
+
