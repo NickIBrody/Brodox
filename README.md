@@ -11,7 +11,7 @@ A minimalist terminal-based web browser written in Rust. Designed for speed, sim
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/brodox.git](https://github.com/YOUR_USERNAME/brodox.git)
+git clone https://github.com/NickIBrody/Brodox.git
    cd brodox
 # Build and run
 cargo run
